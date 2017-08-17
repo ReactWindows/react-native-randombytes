@@ -19,5 +19,8 @@
     "sjcl": "^1.0.3"
   },
   "author": "Mark Vayngrib <mark.vayngrib@lablz.com> (http://github.com/mvayngrib)",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "react-native-windows": "^0.47.0-rc.5"
+  }
 }
